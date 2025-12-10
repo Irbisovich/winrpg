@@ -7,4 +7,4 @@ Colorama uses BSD license, and so this project as well.
 ## What language WinRPG uses?
 It uses Python.
 
-_P.S. It uses Colorama and PIL/Pillow libraries._
+##### _P.S. It uses Colorama and PIL/Pillow libraries._
