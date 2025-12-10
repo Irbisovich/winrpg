@@ -1,5 +1,5 @@
 # winrpg
-WinRPG is an engine with CLI, based on Python as a module in a single file.
+WinRPG is an simple as a rock engine with CLI, based on Python as a module in a single file.
 
 ## Why WinRPG uses BSD License?
 Colorama uses BSD license, and so this project as well.
